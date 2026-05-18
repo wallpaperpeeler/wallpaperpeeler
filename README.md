@@ -3,4 +3,4 @@
 
 
 <p align="center">
-<a href="https://rentry.co/sunshine-island">rentry</a>  <a href="https://blippleep.atabook.org/">atabook</a>
+<a href="https://pprimehood.straw.page">strawpage</a>  <a href="https://blippleep.atabook.org/">atabook</a>
